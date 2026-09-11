@@ -10,8 +10,7 @@ on shift is suddenly running yesterday's build.
 I left half the path token on this napkin because the full string never fits
 in my font size:
 
-    TOKEN_PART_A=K41Mb
-
+    TOKEN_PART_A=yoXxj8
 
 Also desk user is still `nightwire_desk`. Password is not. Check the wall.
 Do not paste special characters into that field. We learned.
